@@ -1,0 +1,31 @@
+*{
+    margin: auto;
+    margin: 0;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0;
+}
+
+.line-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;    
+    margin-top: 50px;
+}
+
+.x-input{
+    display: flex;
+    flex-direction: column;
+    
+}
